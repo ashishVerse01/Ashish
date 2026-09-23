@@ -1,11 +1,22 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ashish Verse</h1>
+<h3 align="center">BCA Student | Aspiring Cyber Security Professional</h3>
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=BCA+Student;Cyber+Security+Enthusiast;Learning+C%2C+Python+%26+Web+Dev" />
+</p>
 
-  <h1>Built with AI Studio</h2>
+### 👨‍💻 About Me
+- 🎓 BCA Student | Aspiring Cyber Security Professional
+- 🌱 Learning *C, Python & Web Development*
+- 📫 Mail: ap9998870@gmail.com
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+### 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,github,vscode" />
+</p>
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishVerse01&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishVerse01&theme=tokyonight" />
+</p>
