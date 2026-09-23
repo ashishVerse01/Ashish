@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=HELLO%20WORLD&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WELCOME%20TO%20MY%20PROFILE%20%7C%20AshishVerse&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=HELLO%20WORLD&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=WELCOME%20TO%20MY%20PROFILE%20%E2%80%A2%20AshishVerse&descAlignY=55&descAlign=50" width="100%"/>
 
-<table>
-<tr>
-<td width="65%">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+
+<div style="width: 62%;">
 
 ### 😎 I'M ASHISH!
 
@@ -17,16 +17,17 @@ I am a BCA Student and Aspiring Cyber Security Professional with a huge love for
 - 📫 **ap9998870@gmail.com*
 - 🌐 **github.com/ashishVerse01**
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ashishVerse01&label=PROFILE%20VIEWS&style=for-the-badge&color=8a2be2" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=ashishVerse01&label=PROFILE%20VIEWS&style=for-the-badge&color=8a2be2)
 
-</td>
-<td width="35%">
-  <img src="https://media.giphy.com/media/W5eoZ9rZZS9d5s0Ry5/giphy.gif" width="100%" />
-</td>
-</tr>
-</table>
+</div>
+
+<div style="width: 35%;">
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="100%" style="border-radius: 20px;" />
+</div>
+
+</div>
+
+---
 
 ### 🛠️ Tech Stack
 <p>
@@ -34,7 +35,11 @@ I am a BCA Student and Aspiring Cyber Security Professional with a huge love for
 </p>
 
 ### 📊 GitHub Stats
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashishVerse01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishVerse01&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishVerse01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8a2be2&line=8a2be2&point=ffffff" width="95%"/>
 </p>
