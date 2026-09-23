@@ -1,22 +1,41 @@
-<h1 align="center">Hi 👋, I'm Ashish Verse</h1>
-<h3 align="center">BCA Student | Aspiring Cyber Security Professional</h3>
+![banner](banner.png)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=BCA+Student;Cyber+Security+Enthusiast;Learning+C%2C+Python+%26+Web+Dev" />
+<table>
+<tr>
+<td width="65%">
+
+### 😎 I'M ASHISH!
+
+Digital Craftsman (BCA Student / Cyber Security Professional)
+
+I am a BCA Student and Aspiring Cyber Security Professional with a huge love for C, Python, Web Development & Ethical Hacking.
+
+- ✨ Student of life :)
+- 🌱 I'm currently learning *C, Python & Cyber Security*, I believe that everyday is a learning opportunity.
+- 💻 BCA Student and creator of *AshishVerse*.
+- ✍️ I love to explore new technologies in Cyber Security.
+- ❤️ Contributing to Open Source.
+- 📫 Reach me at **ap9998870@gmail.com*
+- 🌐 Portfolio: **github.com/ashishVerse01**
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ashishVerse01&label=PROFILE%20VIEWS&style=for-the-badge&color=8a2be2" />
 </p>
 
-### 👨‍💻 About Me
-- 🎓 BCA Student | Aspiring Cyber Security Professional
-- 🌱 Learning *C, Python & Web Development*
-- 📫 Mail: ap9998870@gmail.com
+</td>
+<td width="35%">
+  <img src="owl.png" width="100%" />
+</td>
+</tr>
+</table>
 
 ### 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,github,vscode,linux" />
 </p>
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishVerse01&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishVerse01&theme=tokyonight" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishVerse01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishVerse01&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </p>
